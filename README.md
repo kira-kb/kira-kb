@@ -1,13 +1,11 @@
-# 🏄‍♂️ Kira-Kb
+# 👋 Kira-Kb
 
-**`Software Developer`**
-
-
-# - 👋 Hi, I’m @kira-kb
-# - 👀 I’m interested in ... software-development, hacking, AI, IOT
-# - 🌱 I’ve Bachlores Degree in ... computer science
-# - 💞️ I’m looking to collaborate on ... web-development, hacking, AI
-# - 📫 How to reach me ... kirubelbewket@gmail.com
+**`Software Developer`**  **`Computer Science`**  **`Embedded system`**  **`Robotics`**
+<br/>
+**`👀 I’m interested in ... software-development, hacking, AI, IOT`**
+**`🌱 I’ve Bachlores Degree in ... computer science`**
+**`💞️ I’m looking to collaborate on ... web-development, hacking, AI`**
+**`📫 How to reach me ... kirubelbewket@gmail.com`**
 
 I’m an indie full-stack developer and aspiring content creator, shaping my version of the digital world step by step. Every project I build is carefully crafted from the ground up—starting with planning and design, and ending with real-world solutions through clean, effective code. I approach my video content the same way: from ideation and planning, all the way through to the final edits, with a focus on creativity and quality.
 
@@ -56,6 +54,8 @@ While I don’t yet have a YouTube channel, I’m actively working on creating o
 #
 
 ### 📊 Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kira-kb&show_icons=true&locale=en&layout=compact" alt="kira-kb" /></p>
 
 ![Kira's GitHub stats](https://github-readme-stats.vercel.app/api?username=kira-kb&show_icons=true&theme=gruvbox)
 
