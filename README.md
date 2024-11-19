@@ -27,25 +27,25 @@ While I don’t yet have a YouTube channel, I’m actively working on creating o
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Heruku" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Heruku" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="Mysql" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <br /><br /><br />
 
 
