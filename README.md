@@ -1,11 +1,11 @@
 # 👋 Kira-Kb
 
-**`Software Developer`**  **`Computer Science`**  **`Embedded system`**  **`Robotics`**
-<br/>
-**`👀 I’m interested in ... software-development, hacking, AI, IOT`**
-**`🌱 I’ve Bachlores Degree in ... computer science`**
-**`💞️ I’m looking to collaborate on ... web-development, hacking, AI`**
-**`📫 How to reach me ... kirubelbewket@gmail.com`**
+**`Software Developer`** , **`Computer Science`** , **`Embedded system`** , **`Robotics`**
+<br/><br/>
+**`👀 I’m interested in ... software-development, hacking, AI, IOT`**<br/>
+**`🌱 I’ve Bachlores Degree in ... computer science`**<br/>
+**`💞️ I’m looking to collaborate on ... web-development, hacking, AI`**<br/>
+**`📫 How to reach me ... kirubelbewket@gmail.com`**<br/>
 
 I’m an indie full-stack developer and aspiring content creator, shaping my version of the digital world step by step. Every project I build is carefully crafted from the ground up—starting with planning and design, and ending with real-world solutions through clean, effective code. I approach my video content the same way: from ideation and planning, all the way through to the final edits, with a focus on creativity and quality.
 
