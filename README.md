@@ -46,6 +46,7 @@ While I don’t yet have a YouTube channel, I’m actively working on creating o
 <img align="left" alt="Git" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Heruku" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-jyo8hbbt.png" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <br /><br /><br />
