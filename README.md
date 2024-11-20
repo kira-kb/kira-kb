@@ -40,8 +40,8 @@ While I don’t yet have a YouTube channel, I’m actively working on creating o
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="Robotics" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn-icons-png.freepik.com/256/12775/12775607.png?semt=ais_hybrid" />
 
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Heruku" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
