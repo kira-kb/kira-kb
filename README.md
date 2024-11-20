@@ -38,6 +38,8 @@ While I don’t yet have a YouTube channel, I’m actively working on creating o
 <img align="left" alt="C++" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+<img align="left" alt="Robotics" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn-icons-png.freepik.com/256/12775/12775607.png?semt=ais_hybrid" />
+
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
